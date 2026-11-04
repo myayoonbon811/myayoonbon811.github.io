@@ -1,5 +1,5 @@
 # MYA YOON BON
-> STUDY AT PAYAP UNIVERSITY
+> International Business Management Student
 > Chiang Mai, Thailand
 > myayoonbon.innlay@gmail.com 
 
