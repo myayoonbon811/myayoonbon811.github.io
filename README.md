@@ -1,4 +1,4 @@
-<img src="profile.jpg" alt="Mya Yoon Bon Photo"
+<profile.jpg
 # _Mya Yoon Bon_
 
 > _International Business Management Student_  
