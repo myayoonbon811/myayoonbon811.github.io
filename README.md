@@ -1,4 +1,4 @@
-# _May Yoon Bon_
+# _Mya Yoon Bon_
 
 > _International Business Management Student_  
 > Payap University  
