@@ -46,6 +46,6 @@
 * Chinese - Basic
 
 # Contact Info
-* Email: (myayoonbon.innlay@gmail.com)
-* GitHub: (github.com/myayoonbon811)
+* Email : (myayoonbon.innlay@gmail.com)
+* GitHub : (https://myayoonbon811.github.io)
 
